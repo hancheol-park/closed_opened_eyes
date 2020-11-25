@@ -20,3 +20,5 @@ https://www.youtube.com/watch?v=dJjzTo8_x3c 를 참고함
 트레인시킨 결과물
 
 ![KakaoTalk_20201125_183904168](https://user-images.githubusercontent.com/70885961/100229829-2d6aa480-2f68-11eb-8764-d2e65625c846.png)
+
+모델 테스트시 오류가 발생했는데 버그를 고치지 못해서 테스트를 못해봤습니다.
