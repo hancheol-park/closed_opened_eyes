@@ -14,6 +14,9 @@ https://www.youtube.com/watch?v=dJjzTo8_x3c 를 참고함
 
 
 모델썸머리
+
 ![K-001](https://user-images.githubusercontent.com/70885961/100229637-e5e41880-2f67-11eb-8af4-403230408b22.png)
 
 트레인시킨 결과물
+
+![KakaoTalk_20201125_183904168](https://user-images.githubusercontent.com/70885961/100229829-2d6aa480-2f68-11eb-8764-d2e65625c846.png)
