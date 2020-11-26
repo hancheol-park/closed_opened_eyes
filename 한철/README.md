@@ -18,4 +18,10 @@ https://github.com/kairess/eye_blink_detector를 참고함
 
 ![KakaoTalk_20201125_183904168](https://user-images.githubusercontent.com/70885961/100229829-2d6aa480-2f68-11eb-8764-d2e65625c846.png)
 
-모델 테스트시 오류가 발생했는데 버그를 고치지 못해서 테스트를 못해봤습니다.
+모델 테스트
+
+모델 테스트시 http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2에서 
+
+shape_predictor_68_face_landmarks.dat를 받고 압축을 풀어서 test파일과 같은 위치에 주세요.
+
+https://github.com/kairess/eye_blink_detector를 참고함
