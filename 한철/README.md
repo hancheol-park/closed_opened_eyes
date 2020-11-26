@@ -20,7 +20,7 @@ https://github.com/kairess/eye_blink_detector를 참고함
 
 모델 테스트
 
-모델 테스트시 http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2에서 
+모델 테스트시 http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2 에서 
 
 shape_predictor_68_face_landmarks.dat를 받고 압축을 풀어서 test파일과 같은 위치에 주세요.
 
